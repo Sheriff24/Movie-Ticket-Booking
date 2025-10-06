@@ -46,15 +46,4 @@ Python manage.py runserver
 ## Authors
 [Ashiq Sheriff](https://github.com/Sheriff24)
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details
-
-## Acknowledgments
-
-Inspiration, code snippets, etc.
-* [StartBootstrap](https://github.com/StartBootstrap/startbootstrap-sb-admin)
-* [Caroline Rodrigues](https://codepen.io/loracsilva/pen/ZrRYVL)
-* [Pavlos](https://codepen.io/paulantoniou/pen/RdBogQ?editors=1100)
-* [Coolors](https://coolors.co/02010a-04052e-140152-fff309-0d00a4)
 

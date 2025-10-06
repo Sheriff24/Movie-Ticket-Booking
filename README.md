@@ -44,7 +44,7 @@ Python manage.py runserver
 ```
 
 ## Authors
-[Bhaksara](https://github.com/bhaskars9)
+[Ashiq Sheriff](https://github.com/Sheriff24)
 
 ## License
 
@@ -57,3 +57,4 @@ Inspiration, code snippets, etc.
 * [Caroline Rodrigues](https://codepen.io/loracsilva/pen/ZrRYVL)
 * [Pavlos](https://codepen.io/paulantoniou/pen/RdBogQ?editors=1100)
 * [Coolors](https://coolors.co/02010a-04052e-140152-fff309-0d00a4)
+
